@@ -68,7 +68,7 @@
                         </StackLayout>
 
                         <StackLayout>
-                            <ImageButton HorizontalOptions="CenterAndExpand" Source="cashpayment.png" CornerRadius="50" BackgroundColor="#f0f1f5" Padding="25" HeightRequest="72" WidthRequest="72"/>
+                            <ImageButton HorizontalOptions="CenterAndExpand" Source="payment.png" CornerRadius="50" BackgroundColor="#f0f1f5" Padding="25" HeightRequest="72" WidthRequest="72"/>
                             <Label FontSize="12" Text="Cobrar" FontAttributes="Bold" TextColor="Black" HorizontalOptions="Center"/>
                         </StackLayout>
 
